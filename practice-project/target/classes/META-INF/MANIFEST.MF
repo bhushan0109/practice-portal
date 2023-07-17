@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Bhushan
+Build-Jdk: 17.0.1
+Implementation-Title: practice-project
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.practice
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/practice-project
+Created-By: Maven Integration for Eclipse
+
